@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Perimeter protection visual">
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e8e7be"/>
+      <stop offset="1" stop-color="#c7d8ab"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#a)"/>
+  <rect x="120" y="140" width="960" height="440" rx="28" fill="#fffef6" stroke="#6f9f54" stroke-width="10"/>
+  <path d="M180 520h840" stroke="#6f9f54" stroke-width="12" stroke-linecap="round"/>
+  <path d="M220 470 360 310l140 110 180-170 130 95 120-90" fill="none" stroke="#b32025" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#6f9f54">
+    <circle cx="220" cy="470" r="24"/><circle cx="360" cy="310" r="24"/><circle cx="500" cy="420" r="24"/>
+    <circle cx="680" cy="250" r="24"/><circle cx="810" cy="345" r="24"/><circle cx="930" cy="255" r="24"/>
+  </g>
+  <rect x="160" y="180" width="220" height="56" rx="16" fill="#b32025"/>
+  <text x="180" y="217" fill="#fff4dc" font-size="32" font-family="Trebuchet MS,Segoe UI,sans-serif">Perimeter</text>
+</svg>
