@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Securevision Logo</title>
+  <desc id="desc">Shield with eye motif representing secure visibility.</desc>
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a2640"/>
+      <stop offset="1" stop-color="#1d6f71"/>
+    </linearGradient>
+  </defs>
+  <path d="M128 14l92 34v71c0 58-34 102-92 123-58-21-92-65-92-123V48l92-34z" fill="url(#g1)"/>
+  <path d="M128 44l64 24v48c0 44-24 77-64 94-40-17-64-50-64-94V68l64-24z" fill="none" stroke="#b7ef3e" stroke-width="8"/>
+  <ellipse cx="128" cy="126" rx="48" ry="28" fill="none" stroke="#e9f6f7" stroke-width="9"/>
+  <circle cx="128" cy="126" r="14" fill="#b7ef3e"/>
+  <circle cx="128" cy="126" r="6" fill="#0a2640"/>
+</svg>
