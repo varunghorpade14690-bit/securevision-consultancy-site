@@ -292,6 +292,14 @@ body {
   border-radius: 8px;
 }
 
+.map-embed {
+  width: 100%;
+  height: 240px;
+  border: 1px solid #c7ccab;
+  border-radius: 8px;
+  margin: 12px 0;
+}
+
 .footer,
 .site-footer {
   margin-top: auto;
